@@ -30,7 +30,7 @@
   <a href="mailto:shikhar41690@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/pragya-singh-093507253/" target="_blank">
+  <a href="https://www.linkedin.com/in/shikhar-gupta-06b9581ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="leetcode.com/u/pragyaa09__/" target="_blank">
