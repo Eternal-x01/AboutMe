@@ -27,7 +27,7 @@
  </div>
  
 <div align="left"> 
-  <a href="mailto:pragyaaa.singh22@gmail.com">
+  <a href="mailto:shikhar41690@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/pragya-singh-093507253/" target="_blank">
